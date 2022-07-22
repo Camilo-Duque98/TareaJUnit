@@ -1,0 +1,17 @@
+package net.codejava;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		PaginaPrincipal InitialPage = new PaginaPrincipal();
+		InitialPage.getPaginaPrincipal();
+		
+		
+		
+	}
+
+}
