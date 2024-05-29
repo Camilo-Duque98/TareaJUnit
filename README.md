@@ -1,9 +1,7 @@
-# TareaJUnit
+# JUnit
 
-## Nombre: Camilo Villar Duque.
-## Rol: 201873096-3.
 # Descripción:
-Esta tarea consiste en realizar a través de línea de comando la simulación de una máquina de café, el cuál contiene 5 requisitos principales:  
+Este mini proyecto consiste en realizar a través de línea de comando la simulación de una máquina de café, el cuál contiene 5 requisitos principales:  
 * Estado de espera.  
 * Agregar Inventario.
 * Verificar inventario.  
